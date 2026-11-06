@@ -1,0 +1,13 @@
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+
+# MySQL Workbench autosave and temporary files
+*.bak
+*.tmp
